@@ -1,0 +1,595 @@
+country,crop_code,crop,Year,fao_area_harvested_ha,fao_production_tonnes,fao_yield_kg_ha
+France,0111,Wheat,2020,4519780.0,30181140.0,6677.6
+France,0111,Wheat,2021,5276730.0,36559450.0,6928.4
+France,0111,Wheat,2022,4949840.0,34632380.0,6996.7
+France,0111,Wheat,2023,4998280.0,35995570.0,7201.6
+France,0111,Wheat,2024,4454180.0,26606940.0,5973.5
+France,0112,Maize (corn),2020,1730030.0,13726410.0,7934.2
+France,0112,Maize (corn),2021,1549470.0,15358290.0,9912.0
+France,0112,Maize (corn),2022,1456090.0,10877190.0,7470.1
+France,0112,Maize (corn),2023,1314680.0,12834600.0,9762.5
+France,0112,Maize (corn),2024,1593920.0,14670620.0,9204.1
+France,0113,Rice,2020,14320.0,75460.0,5269.6
+France,0113,Rice,2021,12030.0,62340.0,5182.0
+France,0113,Rice,2022,11760.0,64480.0,5483.0
+France,0113,Rice,2023,12120.0,68270.0,5632.8
+France,0113,Rice,2024,13480.0,71960.0,5338.3
+France,0114,Sorghum,2020,93580.0,431700.0,4613.2
+France,0114,Sorghum,2021,67480.0,382280.0,5665.1
+France,0114,Sorghum,2022,49860.0,210940.0,4230.6
+France,0114,Sorghum,2023,54610.0,303990.0,5566.6
+France,0114,Sorghum,2024,100480.0,447110.0,4449.7
+France,0115,Barley,2020,1974160.0,10277230.0,5205.9
+France,0115,Barley,2021,1730370.0,11321320.0,6542.7
+France,0115,Barley,2022,1866520.0,11285440.0,6046.2
+France,0115,Barley,2023,1815490.0,12143490.0,6688.8
+France,0115,Barley,2024,1808500.0,9669250.0,5346.6
+France,0116,Rye,2020,31960.0,132420.0,4143.3
+France,0116,Rye,2021,43220.0,194290.0,4495.4
+France,0116,Rye,2022,41540.0,157640.0,3794.9
+France,0116,Rye,2023,38820.0,168310.0,4335.7
+France,0116,Rye,2024,29320.0,108350.0,3695.4
+France,0117,Oats,2020,98410.0,387020.0,3932.7
+France,0117,Oats,2021,107160.0,479910.0,4478.4
+France,0117,Oats,2022,96800.0,379000.0,3915.3
+France,0117,Oats,2023,78900.0,337340.0,4275.5
+France,0117,Oats,2024,78200.0,302700.0,3870.8
+France,01191,Triticale,2020,261630.0,1206560.0,4611.7
+France,01191,Triticale,2021,338600.0,1736910.0,5129.7
+France,01191,Triticale,2022,339700.0,1613730.0,4750.5
+France,01191,Triticale,2023,326270.0,1646460.0,5046.3
+France,01191,Triticale,2024,255160.0,1087820.0,4263.3
+France,01199.02,Mixed grain,2020,102130.0,357640.0,3501.8
+France,01199.02,Mixed grain,2021,134110.0,546440.0,4074.6
+France,01199.02,Mixed grain,2022,120290.0,462200.0,3842.4
+France,01199.02,Mixed grain,2023,113140.0,472570.0,4176.9
+France,01199.02,Mixed grain,2024,84300.0,291320.0,3455.8
+France,01199.90,Cereals n.e.c.,2020,100700.0,309580.0,3074.3
+France,01199.90,Cereals n.e.c.,2021,66540.0,235910.0,3545.4
+France,01199.90,Cereals n.e.c.,2022,72610.0,244490.0,3367.2
+France,01199.90,Cereals n.e.c.,2023,79210.0,270210.0,3411.3
+France,01199.90,Cereals n.e.c.,2024,109060.0,297400.0,2726.9
+France,01211,Asparagus,2020,6300.0,26760.0,4247.6
+France,01211,Asparagus,2021,6530.0,25810.0,3952.5
+France,01211,Asparagus,2022,6610.0,26250.0,3971.3
+France,01211,Asparagus,2023,6670.0,27340.0,4099.0
+France,01211,Asparagus,2024,7400.0,27570.0,3725.7
+France,01212,Cabbages,2020,8450.0,205640.0,24336.1
+France,01212,Cabbages,2021,7500.0,189970.0,25329.3
+France,01212,Cabbages,2022,7520.0,163170.0,21698.1
+France,01212,Cabbages,2023,7910.0,175670.0,22208.6
+France,01212,Cabbages,2024,8320.0,188630.0,22671.9
+France,01213,Cauliflowers and broccoli,2020,17830.0,253770.0,14232.8
+France,01213,Cauliflowers and broccoli,2021,16530.0,266410.0,16116.8
+France,01213,Cauliflowers and broccoli,2022,13800.0,211390.0,15318.1
+France,01213,Cauliflowers and broccoli,2023,15320.0,208660.0,13620.1
+France,01213,Cauliflowers and broccoli,2024,15510.0,203960.0,13150.2
+France,01214,Lettuce and chicory,2020,17580.0,492300.0,28003.4
+France,01214,Lettuce and chicory,2021,17310.0,493310.0,28498.6
+France,01214,Lettuce and chicory,2022,16690.0,438740.0,26287.6
+France,01214,Lettuce and chicory,2023,16450.0,401200.0,24389.1
+France,01214,Lettuce and chicory,2024,16980.0,433890.0,25553.0
+France,01215,Spinach,2020,4760.0,86260.0,18121.8
+France,01215,Spinach,2021,6090.0,121290.0,19916.3
+France,01215,Spinach,2022,5920.0,113650.0,19197.6
+France,01215,Spinach,2023,4400.0,79400.0,18045.5
+France,01215,Spinach,2024,4800.0,81560.0,16991.7
+France,01216,Artichokes,2020,4920.0,26830.0,5453.3
+France,01216,Artichokes,2021,4780.0,29340.0,6138.1
+France,01216,Artichokes,2022,4710.0,21750.0,4617.8
+France,01216,Artichokes,2023,4100.0,23330.0,5690.2
+France,01216,Artichokes,2024,3670.0,21550.0,5871.9
+France,01221,Watermelons,2020,900.0,24820.0,27577.8
+France,01221,Watermelons,2021,880.0,24170.0,27465.9
+France,01221,Watermelons,2022,920.0,23770.0,25837.0
+France,01221,Watermelons,2023,930.0,23510.0,25279.6
+France,01221,Watermelons,2024,930.0,22870.0,24591.4
+France,01229,Cantaloupes and other melons,2020,14110.0,290530.0,20590.4
+France,01229,Cantaloupes and other melons,2021,13910.0,270700.0,19460.8
+France,01229,Cantaloupes and other melons,2022,13420.0,307500.0,22913.6
+France,01229,Cantaloupes and other melons,2023,13590.0,322500.0,23730.7
+France,01229,Cantaloupes and other melons,2024,14110.0,322410.0,22849.8
+France,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2020,1380.0,37770.0,27369.6
+France,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2021,1360.0,30680.0,22558.8
+France,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2022,1400.0,26440.0,18885.7
+France,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2023,1360.0,24970.0,18360.3
+France,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2024,1380.0,20740.0,15029.0
+France,01232,Cucumbers and gherkins,2020,1910.0,213540.0,111801.0
+France,01232,Cucumbers and gherkins,2021,1710.0,200150.0,117046.8
+France,01232,Cucumbers and gherkins,2022,1720.0,175180.0,101848.8
+France,01232,Cucumbers and gherkins,2023,1710.0,179940.0,105228.1
+France,01232,Cucumbers and gherkins,2024,1730.0,178940.0,103433.5
+France,01233,Eggplants (aubergines),2020,1490.0,57060.0,38295.3
+France,01233,Eggplants (aubergines),2021,1420.0,44260.0,31169.0
+France,01233,Eggplants (aubergines),2022,1410.0,42480.0,30127.7
+France,01233,Eggplants (aubergines),2023,1410.0,40690.0,28858.2
+France,01233,Eggplants (aubergines),2024,1500.0,42830.0,28553.3
+France,01234,Tomatoes,2020,6260.0,703590.0,112394.6
+France,01234,Tomatoes,2021,6190.0,726170.0,117313.4
+France,01234,Tomatoes,2022,5890.0,711040.0,120719.9
+France,01234,Tomatoes,2023,5920.0,656190.0,110842.9
+France,01234,Tomatoes,2024,6080.0,692430.0,113886.5
+France,01235,"Pumpkins, squash and gourds",2020,12920.0,410030.0,31736.1
+France,01235,"Pumpkins, squash and gourds",2021,13130.0,403590.0,30738.0
+France,01235,"Pumpkins, squash and gourds",2022,13190.0,365920.0,27742.2
+France,01235,"Pumpkins, squash and gourds",2023,12520.0,356830.0,28500.8
+France,01235,"Pumpkins, squash and gourds",2024,12740.0,379910.0,29820.3
+France,01241.90,"Other beans, green",2020,29720.0,336770.0,11331.4
+France,01241.90,"Other beans, green",2021,33600.0,424760.0,12641.7
+France,01241.90,"Other beans, green",2022,31490.0,378020.0,12004.4
+France,01241.90,"Other beans, green",2023,26000.0,315980.0,12153.1
+France,01241.90,"Other beans, green",2024,26650.0,317960.0,11931.0
+France,01242,"Peas, green",2020,41680.0,245700.0,5894.9
+France,01242,"Peas, green",2021,47510.0,314480.0,6619.2
+France,01242,"Peas, green",2022,44540.0,295500.0,6634.5
+France,01242,"Peas, green",2023,40150.0,268200.0,6680.0
+France,01242,"Peas, green",2024,40810.0,260130.0,6374.2
+France,01243,"Broad beans and horse beans, green",2020,6470.0,32480.0,5020.1
+France,01243,"Broad beans and horse beans, green",2021,9110.0,48870.0,5364.4
+France,01243,"Broad beans and horse beans, green",2022,8030.0,39000.0,4856.8
+France,01243,"Broad beans and horse beans, green",2023,7090.0,43900.0,6191.8
+France,01243,"Broad beans and horse beans, green",2024,7610.0,41180.0,5411.3
+France,01251,Carrots and turnips,2020,16240.0,650680.0,40066.5
+France,01251,Carrots and turnips,2021,16410.0,690550.0,42081.0
+France,01251,Carrots and turnips,2022,15000.0,662410.0,44160.7
+France,01251,Carrots and turnips,2023,15110.0,629630.0,41669.8
+France,01251,Carrots and turnips,2024,15920.0,662380.0,41606.8
+France,01252,Green garlic,2020,4180.0,30280.0,7244.0
+France,01252,Green garlic,2021,4140.0,28820.0,6961.4
+France,01252,Green garlic,2022,4360.0,19430.0,4456.4
+France,01252,Green garlic,2023,4130.0,29310.0,7096.9
+France,01252,Green garlic,2024,4230.0,28770.0,6801.4
+France,01253.02,"Onions and shallots, dry (excluding dehydrated)",2020,19780.0,727150.0,36761.9
+France,01253.02,"Onions and shallots, dry (excluding dehydrated)",2021,23200.0,884130.0,38109.1
+France,01253.02,"Onions and shallots, dry (excluding dehydrated)",2022,21200.0,781660.0,36870.8
+France,01253.02,"Onions and shallots, dry (excluding dehydrated)",2023,21780.0,742150.0,34074.8
+France,01253.02,"Onions and shallots, dry (excluding dehydrated)",2024,23150.0,778580.0,33632.0
+France,01254,Leeks and other alliaceous vegetables,2020,5600.0,168400.0,30071.4
+France,01254,Leeks and other alliaceous vegetables,2021,5910.0,187530.0,31731.0
+France,01254,Leeks and other alliaceous vegetables,2022,5470.0,157520.0,28797.1
+France,01254,Leeks and other alliaceous vegetables,2023,5360.0,175880.0,32813.4
+France,01254,Leeks and other alliaceous vegetables,2024,5460.0,159100.0,29139.2
+France,01270,Mushrooms and truffles,2020,,132150.0,
+France,01270,Mushrooms and truffles,2021,,123350.0,
+France,01270,Mushrooms and truffles,2022,,101800.0,
+France,01270,Mushrooms and truffles,2023,,94550.0,
+France,01270,Mushrooms and truffles,2024,,99970.0,
+France,01290.01,Green corn (maize),2020,23327.0,424803.0,18210.8
+France,01290.01,Green corn (maize),2021,22139.0,460902.0,20818.6
+France,01290.01,Green corn (maize),2022,21739.0,412777.0,18987.9
+France,01290.01,Green corn (maize),2024,20568.0,459300.0,22330.8
+France,01290.90,"Other vegetables, fresh n.e.c.",2020,26640.0,459850.0,17261.6
+France,01290.90,"Other vegetables, fresh n.e.c.",2021,23240.0,472410.0,20327.5
+France,01290.90,"Other vegetables, fresh n.e.c.",2022,890.0,10850.0,12191.0
+France,01290.90,"Other vegetables, fresh n.e.c.",2023,23850.0,469910.0,19702.7
+France,01290.90,"Other vegetables, fresh n.e.c.",2024,21480.0,409620.0,19069.8
+France,01311,Avocados,2020,130.0,1080.0,8307.7
+France,01311,Avocados,2021,130.0,1100.0,8461.5
+France,01311,Avocados,2022,130.0,1080.0,8307.7
+France,01311,Avocados,2023,150.0,1210.0,8066.7
+France,01311,Avocados,2024,190.0,1480.0,7789.5
+France,01312,Bananas,2020,11580.0,212140.0,18319.5
+France,01312,Bananas,2021,11480.0,228900.0,19939.0
+France,01312,Bananas,2022,10900.0,225530.0,20690.8
+France,01312,Bananas,2023,10900.0,212460.0,19491.7
+France,01312,Bananas,2024,11010.0,210920.0,19157.1
+France,01315,Figs,2020,840.0,7170.0,8535.7
+France,01315,Figs,2021,840.0,6440.0,7666.7
+France,01315,Figs,2022,840.0,6920.0,8238.1
+France,01315,Figs,2023,830.0,7190.0,8662.7
+France,01315,Figs,2024,830.0,7450.0,8975.9
+France,01319,"Other tropical fruits, n.e.c.",2020,1620.0,44410.0,27413.6
+France,01319,"Other tropical fruits, n.e.c.",2021,5920.0,47940.0,8098.0
+France,01319,"Other tropical fruits, n.e.c.",2022,5790.0,45810.0,7911.9
+France,01319,"Other tropical fruits, n.e.c.",2023,6130.0,44370.0,7238.2
+France,01319,"Other tropical fruits, n.e.c.",2024,6200.0,38820.0,6261.3
+France,01321,Pomelos and grapefruits,2020,370.0,8850.0,23918.9
+France,01321,Pomelos and grapefruits,2021,370.0,9400.0,25405.4
+France,01321,Pomelos and grapefruits,2022,390.0,9370.0,24025.6
+France,01321,Pomelos and grapefruits,2023,380.0,8650.0,22763.2
+France,01321,Pomelos and grapefruits,2024,380.0,9040.0,23789.5
+France,01322,Lemons and limes,2020,2150.0,22760.0,10586.0
+France,01322,Lemons and limes,2021,2180.0,22810.0,10463.3
+France,01322,Lemons and limes,2022,2200.0,21690.0,9859.1
+France,01322,Lemons and limes,2023,2580.0,14300.0,5542.6
+France,01322,Lemons and limes,2024,2660.0,14330.0,5387.2
+France,01323,Oranges,2020,850.0,10660.0,12541.2
+France,01323,Oranges,2021,910.0,10630.0,11681.3
+France,01323,Oranges,2022,950.0,9760.0,10273.7
+France,01323,Oranges,2023,950.0,8980.0,9452.6
+France,01323,Oranges,2024,810.0,8060.0,9950.6
+France,01324,"Tangerines, mandarins, clementines",2020,2160.0,45060.0,20861.1
+France,01324,"Tangerines, mandarins, clementines",2021,2270.0,45350.0,19978.0
+France,01324,"Tangerines, mandarins, clementines",2022,2330.0,50750.0,21781.1
+France,01324,"Tangerines, mandarins, clementines",2023,2360.0,40820.0,17296.6
+France,01324,"Tangerines, mandarins, clementines",2024,2470.0,53170.0,21526.3
+France,01329,"Other citrus fruit, n.e.c.",2020,1280.0,,
+France,01329,"Other citrus fruit, n.e.c.",2021,1040.0,,
+France,01329,"Other citrus fruit, n.e.c.",2022,920.0,,
+France,01329,"Other citrus fruit, n.e.c.",2023,680.0,,
+France,01329,"Other citrus fruit, n.e.c.",2024,740.0,,
+France,01330,Grapes,2020,759590.0,5857870.0,7711.9
+France,01330,Grapes,2021,757830.0,5073590.0,6694.9
+France,01330,Grapes,2022,757550.0,6199950.0,8184.2
+France,01330,Grapes,2023,753340.0,6205260.0,8237.0
+France,01330,Grapes,2024,741330.0,4747450.0,6404.0
+France,01341,Apples,2020,54710.0,1743360.0,31865.5
+France,01341,Apples,2021,54210.0,1633080.0,30125.1
+France,01341,Apples,2022,54020.0,1785660.0,33055.5
+France,01341,Apples,2023,53800.0,1894440.0,35212.6
+France,01341,Apples,2024,52760.0,1964030.0,37225.7
+France,01342.01,Pears,2020,5900.0,150660.0,25535.6
+France,01342.01,Pears,2021,5890.0,69070.0,11726.7
+France,01342.01,Pears,2022,5910.0,142570.0,24123.5
+France,01342.01,Pears,2023,6080.0,128250.0,21093.8
+France,01342.01,Pears,2024,6220.0,151870.0,24416.4
+France,01343,Apricots,2020,12080.0,85260.0,7057.9
+France,01343,Apricots,2021,11880.0,54590.0,4595.1
+France,01343,Apricots,2022,11360.0,128080.0,11274.6
+France,01343,Apricots,2023,11120.0,127780.0,11491.0
+France,01343,Apricots,2024,10500.0,82760.0,7881.9
+France,01344.01,Sour cherries,2020,690.0,2870.0,4159.4
+France,01344.01,Sour cherries,2021,690.0,690.0,1000.0
+France,01344.01,Sour cherries,2022,760.0,2840.0,3736.8
+France,01344.01,Sour cherries,2023,760.0,2580.0,3394.7
+France,01344.01,Sour cherries,2024,760.0,2640.0,3473.7
+France,01344.02,Cherries,2020,6820.0,31840.0,4668.6
+France,01344.02,Cherries,2021,6810.0,12490.0,1834.1
+France,01344.02,Cherries,2022,6780.0,34990.0,5160.8
+France,01344.02,Cherries,2023,6680.0,31080.0,4652.7
+France,01344.02,Cherries,2024,6140.0,28350.0,4617.3
+France,01345,Peaches and nectarines,2020,11660.0,234100.0,20077.2
+France,01345,Peaches and nectarines,2021,11770.0,175840.0,14939.7
+France,01345,Peaches and nectarines,2022,11500.0,232030.0,20176.5
+France,01345,Peaches and nectarines,2023,11220.0,222790.0,19856.5
+France,01345,Peaches and nectarines,2024,11060.0,236720.0,21403.3
+France,01346,Plums and sloes,2020,15700.0,225900.0,14388.5
+France,01346,Plums and sloes,2021,15700.0,106280.0,6769.4
+France,01346,Plums and sloes,2022,15090.0,99990.0,6626.2
+France,01346,Plums and sloes,2023,15110.0,207580.0,13737.9
+France,01346,Plums and sloes,2024,15330.0,170510.0,11122.6
+France,01349.10,Other pome fruits,2020,4720.0,,
+France,01349.10,Other pome fruits,2021,4510.0,,
+France,01349.10,Other pome fruits,2022,4340.0,,
+France,01349.10,Other pome fruits,2023,4210.0,,
+France,01349.10,Other pome fruits,2024,4240.0,,
+France,01349.20,Other stone fruits,2020,6900.0,,
+France,01349.20,Other stone fruits,2021,5550.0,,
+France,01349.20,Other stone fruits,2022,6360.0,,
+France,01349.20,Other stone fruits,2023,6470.0,,
+France,01349.20,Other stone fruits,2024,6450.0,,
+France,01351.01,Currants,2020,2400.0,9990.0,4162.5
+France,01351.01,Currants,2021,2530.0,10000.0,3952.6
+France,01351.01,Currants,2022,2600.0,9960.0,3830.8
+France,01351.01,Currants,2023,2810.0,12890.0,4587.2
+France,01351.01,Currants,2024,2940.0,10650.0,3622.4
+France,01352,Kiwi fruit,2020,3930.0,50830.0,12933.8
+France,01352,Kiwi fruit,2021,3930.0,46030.0,11712.5
+France,01352,Kiwi fruit,2022,3930.0,47120.0,11989.8
+France,01352,Kiwi fruit,2023,3990.0,49770.0,12473.7
+France,01352,Kiwi fruit,2024,4040.0,50760.0,12564.4
+France,01353.01,Raspberries,2020,620.0,5210.0,8403.2
+France,01353.01,Raspberries,2021,620.0,5140.0,8290.3
+France,01353.01,Raspberries,2022,640.0,5970.0,9328.1
+France,01353.01,Raspberries,2023,680.0,6300.0,9264.7
+France,01353.01,Raspberries,2024,710.0,7480.0,10535.2
+France,01354,Strawberries,2020,4180.0,77460.0,18531.1
+France,01354,Strawberries,2021,3910.0,73570.0,18815.9
+France,01354,Strawberries,2022,4020.0,78490.0,19524.9
+France,01354,Strawberries,2023,3890.0,77050.0,19807.2
+France,01354,Strawberries,2024,3740.0,76210.0,20377.0
+France,01355.01,Blueberries,2020,2116.0,7881.0,3724.5
+France,01355.01,Blueberries,2021,2237.0,8009.0,3580.2
+France,01355.01,Blueberries,2022,2292.0,7611.0,3320.7
+France,01355.01,Blueberries,2023,2485.0,10545.0,4243.5
+France,01355.01,Blueberries,2024,2579.0,8621.0,3342.8
+France,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2020,1280.0,,
+France,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2021,1310.0,,
+France,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2022,1370.0,,
+France,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2023,1330.0,,
+France,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2024,1320.0,,
+France,01371,"Almonds, in shell",2020,2110.0,2060.0,976.3
+France,01371,"Almonds, in shell",2021,2210.0,1940.0,877.8
+France,01371,"Almonds, in shell",2022,2210.0,2520.0,1140.3
+France,01371,"Almonds, in shell",2023,2330.0,2130.0,914.2
+France,01371,"Almonds, in shell",2024,2720.0,2180.0,801.5
+France,01373,"Chestnuts, in shell",2020,8550.0,8730.0,1021.1
+France,01373,"Chestnuts, in shell",2021,8600.0,9460.0,1100.0
+France,01373,"Chestnuts, in shell",2022,8990.0,10280.0,1143.5
+France,01373,"Chestnuts, in shell",2023,9080.0,8570.0,943.8
+France,01373,"Chestnuts, in shell",2024,9200.0,8950.0,972.8
+France,01374,"Hazelnuts, in shell",2020,7430.0,12660.0,1703.9
+France,01374,"Hazelnuts, in shell",2021,7510.0,12340.0,1643.1
+France,01374,"Hazelnuts, in shell",2022,7560.0,9960.0,1317.5
+France,01374,"Hazelnuts, in shell",2023,7920.0,17160.0,2166.7
+France,01374,"Hazelnuts, in shell",2024,8200.0,8450.0,1030.5
+France,01376,"Walnuts, in shell",2020,27180.0,38060.0,1400.3
+France,01376,"Walnuts, in shell",2021,26850.0,37740.0,1405.6
+France,01376,"Walnuts, in shell",2022,26900.0,49680.0,1846.8
+France,01376,"Walnuts, in shell",2023,26870.0,31380.0,1167.8
+France,01376,"Walnuts, in shell",2024,26830.0,27710.0,1032.8
+France,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2020,8410.0,,
+France,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2021,7020.0,2080.0,296.3
+France,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2022,7010.0,1980.0,282.5
+France,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2023,7030.0,,
+France,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2024,7070.0,,
+France,0141,Soya beans,2020,187070.0,406810.0,2174.6
+France,0141,Soya beans,2021,154380.0,439350.0,2845.9
+France,0141,Soya beans,2022,183910.0,375820.0,2043.5
+France,0141,Soya beans,2023,157750.0,387820.0,2458.4
+France,0141,Soya beans,2024,152680.0,398540.0,2610.3
+France,0143,Cotton seed,2020,,0.0,
+France,01441,Linseed,2020,32050.0,59540.0,1857.7
+France,01441,Linseed,2021,37500.0,72940.0,1945.1
+France,01441,Linseed,2022,28910.0,50790.0,1756.8
+France,01441,Linseed,2023,26900.0,51690.0,1921.6
+France,01441,Linseed,2024,22930.0,39620.0,1727.9
+France,01443,Rape or colza seed,2020,1112930.0,3289960.0,2956.1
+France,01443,Rape or colza seed,2021,980130.0,3306520.0,3373.6
+France,01443,Rape or colza seed,2022,1230150.0,4516540.0,3671.5
+France,01443,Rape or colza seed,2023,1345730.0,4276890.0,3178.1
+France,01443,Rape or colza seed,2024,1326660.0,3941140.0,2970.7
+France,01445,Sunflower seed,2020,777340.0,1608190.0,2068.8
+France,01445,Sunflower seed,2021,698360.0,1912890.0,2739.1
+France,01445,Sunflower seed,2022,870560.0,1798380.0,2065.8
+France,01445,Sunflower seed,2023,821740.0,2061430.0,2508.6
+France,01445,Sunflower seed,2024,753680.0,1479770.0,1963.4
+France,01449.90,"Other oil seeds, n.e.c.",2020,9710.0,14530.0,1496.4
+France,01449.90,"Other oil seeds, n.e.c.",2021,8550.0,15350.0,1795.3
+France,01449.90,"Other oil seeds, n.e.c.",2022,10070.0,18740.0,1861.0
+France,01449.90,"Other oil seeds, n.e.c.",2023,19550.0,26660.0,1363.7
+France,01449.90,"Other oil seeds, n.e.c.",2024,19490.0,27260.0,1398.7
+France,01450,Olives,2020,16700.0,27690.0,1658.1
+France,01450,Olives,2021,17010.0,27560.0,1620.2
+France,01450,Olives,2022,17180.0,21930.0,1276.5
+France,01450,Olives,2023,16790.0,29740.0,1771.3
+France,01450,Olives,2024,16310.0,28200.0,1729.0
+France,01510,Potatoes,2020,216420.0,8822180.0,40764.2
+France,01510,Potatoes,2021,211590.0,8987220.0,42474.7
+France,01510,Potatoes,2022,211670.0,8067380.0,38113.0
+France,01510,Potatoes,2023,204010.0,8606490.0,42186.6
+France,01510,Potatoes,2024,217680.0,9237460.0,42436.0
+France,01659,Hop cones,2020,550.0,840.0,1527.3
+France,01659,Hop cones,2021,560.0,950.0,1696.4
+France,01659,Hop cones,2022,530.0,1100.0,2075.5
+France,01659,Hop cones,2023,550.0,720.0,1309.1
+France,01659,Hop cones,2024,580.0,670.0,1155.2
+France,01702,"Broad beans and horse beans, dry",2020,76350.0,147610.0,1933.3
+France,01702,"Broad beans and horse beans, dry",2021,78000.0,184200.0,2361.5
+France,01702,"Broad beans and horse beans, dry",2022,68090.0,157850.0,2318.3
+France,01702,"Broad beans and horse beans, dry",2023,80230.0,216320.0,2696.2
+France,01702,"Broad beans and horse beans, dry",2024,80440.0,216350.0,2689.6
+France,01705,"Peas, dry",2020,202690.0,558810.0,2757.0
+France,01705,"Peas, dry",2021,194330.0,552160.0,2841.4
+France,01705,"Peas, dry",2022,133490.0,399910.0,2995.8
+France,01705,"Peas, dry",2023,151600.0,485190.0,3200.5
+France,01705,"Peas, dry",2024,166410.0,486710.0,2924.8
+France,01709.02,Lupins,2020,5930.0,13030.0,2197.3
+France,01709.02,Lupins,2021,6690.0,15130.0,2261.6
+France,01709.02,Lupins,2022,5290.0,11020.0,2083.2
+France,01709.02,Lupins,2023,4930.0,10870.0,2204.9
+France,01709.02,Lupins,2024,4760.0,10070.0,2115.5
+France,01709.90,Other pulses n.e.c.,2020,104280.0,208030.0,1994.9
+France,01709.90,Other pulses n.e.c.,2021,112950.0,248830.0,2203.0
+France,01709.90,Other pulses n.e.c.,2022,101850.0,228800.0,2246.4
+France,01709.90,Other pulses n.e.c.,2023,116930.0,288910.0,2470.8
+France,01709.90,Other pulses n.e.c.,2024,69230.0,128630.0,1858.0
+France,01801,Sugar beet,2020,420670.0,26163360.0,62194.5
+France,01801,Sugar beet,2021,407890.0,34365390.0,84251.6
+France,01801,Sugar beet,2022,401610.0,31496750.0,78426.2
+France,01801,Sugar beet,2023,380550.0,30580680.0,80359.2
+France,01801,Sugar beet,2024,411630.0,32594090.0,79183.0
+France,01929.01,"Flax, raw or retted",2020,142160.0,744300.0,5235.6
+France,01929.01,"Flax, raw or retted",2021,112580.0,678390.0,6025.8
+France,01929.01,"Flax, raw or retted",2022,127800.0,652680.0,5107.0
+France,01929.01,"Flax, raw or retted",2023,131160.0,515340.0,3929.1
+France,01929.01,"Flax, raw or retted",2024,158290.0,1059080.0,6690.8
+France,01929.02,"True hemp, raw or retted",2020,17530.0,106260.0,6061.6
+France,01929.02,"True hemp, raw or retted",2021,18030.0,141460.0,7845.8
+France,01929.02,"True hemp, raw or retted",2022,19560.0,121720.0,6222.9
+France,01929.02,"True hemp, raw or retted",2023,19410.0,122820.0,6327.7
+France,01929.02,"True hemp, raw or retted",2024,22960.0,135530.0,5902.9
+France,01970,Unmanufactured tobacco,2020,1630.0,3530.0,2165.6
+France,01970,Unmanufactured tobacco,2021,1310.0,3320.0,2534.4
+France,01970,Unmanufactured tobacco,2022,1170.0,3170.0,2709.4
+France,01970,Unmanufactured tobacco,2023,1060.0,2920.0,2754.7
+France,01970,Unmanufactured tobacco,2024,1020.0,2650.0,2598.0
+France,02211,Raw milk of cattle,2020,,25234840.0,
+France,02211,Raw milk of cattle,2021,,24760620.0,
+France,02211,Raw milk of cattle,2022,,24606350.0,
+France,02211,Raw milk of cattle,2023,,23993580.0,
+France,02211,Raw milk of cattle,2024,,24204280.0,
+France,02212,Raw milk of buffalo,2020,,0.0,
+France,02212,Raw milk of buffalo,2021,,0.0,
+France,02212,Raw milk of buffalo,2022,,0.0,
+France,02212,Raw milk of buffalo,2023,,0.0,
+France,02212,Raw milk of buffalo,2024,,0.0,
+France,02291,Raw milk of sheep,2020,,344170.0,
+France,02291,Raw milk of sheep,2021,,350200.0,
+France,02291,Raw milk of sheep,2022,,342090.0,
+France,02291,Raw milk of sheep,2023,,338820.0,
+France,02291,Raw milk of sheep,2024,,337060.0,
+France,02292,Raw milk of goats,2020,,709510.0,
+France,02292,Raw milk of goats,2021,,718260.0,
+France,02292,Raw milk of goats,2022,,733100.0,
+France,02292,Raw milk of goats,2023,,718100.0,
+France,02292,Raw milk of goats,2024,,703230.0,
+France,0231,"Hen eggs in shell, fresh",2020,,15121211.0,242.0
+France,0231,"Hen eggs in shell, fresh",2021,,15609168.0,241.0
+France,0231,"Hen eggs in shell, fresh",2022,,16457328.0,259.0
+France,0231,"Hen eggs in shell, fresh",2023,,16374478.0,257.0
+France,02910,Natural honey,2020,,23737.0,
+France,02910,Natural honey,2021,,14960.0,
+France,02910,Natural honey,2022,,20019.0,
+France,02910,Natural honey,2023,,24021.0,
+France,02910,Natural honey,2024,,20034.0,
+France,21111.01,"Meat of cattle with the bone, fresh or chilled",2020,,1434590.0,
+France,21111.01,"Meat of cattle with the bone, fresh or chilled",2021,,1424320.0,
+France,21111.01,"Meat of cattle with the bone, fresh or chilled",2022,,1361310.0,
+France,21111.01,"Meat of cattle with the bone, fresh or chilled",2023,,1301420.0,
+France,21111.01,"Meat of cattle with the bone, fresh or chilled",2024,,1298540.0,
+France,21113.01,"Meat of pig with the bone, fresh or chilled",2020,,2201110.0,
+France,21113.01,"Meat of pig with the bone, fresh or chilled",2021,,2203830.0,
+France,21113.01,"Meat of pig with the bone, fresh or chilled",2022,,2152260.0,
+France,21113.01,"Meat of pig with the bone, fresh or chilled",2023,,2062460.0,
+France,21113.01,"Meat of pig with the bone, fresh or chilled",2024,,2094250.0,
+France,21114,"Meat of rabbits and hares, fresh or chilled",2020,,26141.0,
+France,21114,"Meat of rabbits and hares, fresh or chilled",2021,,25707.0,
+France,21114,"Meat of rabbits and hares, fresh or chilled",2022,,23357.0,
+France,21114,"Meat of rabbits and hares, fresh or chilled",2023,,22137.0,
+France,21114,"Meat of rabbits and hares, fresh or chilled",2024,,21365.0,
+France,21115,"Meat of sheep, fresh or chilled",2020,,80280.0,
+France,21115,"Meat of sheep, fresh or chilled",2021,,81790.0,
+France,21115,"Meat of sheep, fresh or chilled",2022,,79200.0,
+France,21115,"Meat of sheep, fresh or chilled",2023,,72830.0,
+France,21115,"Meat of sheep, fresh or chilled",2024,,67960.0,
+France,21116,"Meat of goat, fresh or chilled",2020,,6130.0,
+France,21116,"Meat of goat, fresh or chilled",2021,,6210.0,
+France,21116,"Meat of goat, fresh or chilled",2022,,6270.0,
+France,21116,"Meat of goat, fresh or chilled",2023,,5870.0,
+France,21116,"Meat of goat, fresh or chilled",2024,,5830.0,
+France,21121,"Meat of chickens, fresh or chilled",2020,,1130000.0,
+France,21121,"Meat of chickens, fresh or chilled",2021,,1143000.0,
+France,21121,"Meat of chickens, fresh or chilled",2022,,1114430.0,
+France,21121,"Meat of chickens, fresh or chilled",2023,,1128280.0,
+France,21121,"Meat of chickens, fresh or chilled",2024,,1245830.0,
+France,21122,"Meat of ducks, fresh or chilled",2020,,192000.0,
+France,21122,"Meat of ducks, fresh or chilled",2021,,177000.0,
+France,21122,"Meat of ducks, fresh or chilled",2022,,117840.0,
+France,21122,"Meat of ducks, fresh or chilled",2023,,136500.0,
+France,21122,"Meat of ducks, fresh or chilled",2024,,187810.0,
+France,21123,"Meat of geese, fresh or chilled",2020,,1529.0,
+France,21123,"Meat of geese, fresh or chilled",2021,,1313.0,
+France,21124,"Meat of turkeys, fresh or chilled",2020,,321000.0,
+France,21124,"Meat of turkeys, fresh or chilled",2021,,295000.0,
+France,21124,"Meat of turkeys, fresh or chilled",2022,,244920.0,
+France,21124,"Meat of turkeys, fresh or chilled",2023,,240230.0,
+France,21124,"Meat of turkeys, fresh or chilled",2024,,256450.0,
+France,21521,"Pig fat, rendered",2020,,145908.36,
+France,21521,"Pig fat, rendered",2021,,146172.72,
+France,21521,"Pig fat, rendered",2022,,148120.93,
+France,21521,"Pig fat, rendered",2023,,142862.01,
+France,21523,Tallow,2020,,235000.0,
+France,21523,Tallow,2021,,233700.0,
+France,21523,Tallow,2022,,224800.0,
+France,21523,Tallow,2023,,218100.0,
+France,2161,Soya bean oil,2020,,140200.0,
+France,2161,Soya bean oil,2021,,120000.0,
+France,2161,Soya bean oil,2022,,78400.0,
+France,2161,Soya bean oil,2023,,102000.0,
+France,21631.01,"Sunflower-seed oil, crude",2020,,472200.0,
+France,21631.01,"Sunflower-seed oil, crude",2021,,531800.0,
+France,21631.01,"Sunflower-seed oil, crude",2022,,593000.0,
+France,21631.01,"Sunflower-seed oil, crude",2023,,619600.0,
+France,21631.02,"Safflower-seed oil, crude",2020,,126.56,
+France,21631.02,"Safflower-seed oil, crude",2021,,139.58,
+France,21631.02,"Safflower-seed oil, crude",2022,,22.56,
+France,21631.02,"Safflower-seed oil, crude",2023,,96.65,
+France,21641.01,"Rapeseed or canola oil, crude",2020,,1716100.0,
+France,21641.01,"Rapeseed or canola oil, crude",2021,,1835900.0,
+France,21641.01,"Rapeseed or canola oil, crude",2022,,1838300.0,
+France,21641.01,"Rapeseed or canola oil, crude",2023,,1886800.0,
+France,2167,Olive oil,2020,,3800.0,
+France,2167,Olive oil,2021,,4900.0,
+France,2167,Olive oil,2022,,5100.0,
+France,2167,Olive oil,2023,,3700.0,
+France,21691.02,Oil of maize,2020,,65100.0,
+France,21691.02,Oil of maize,2021,,65500.0,
+France,21691.02,Oil of maize,2022,,66900.0,
+France,21691.02,Oil of maize,2023,,63300.0,
+France,21691.07,Oil of sesame seed,2020,,5777.98,
+France,21691.07,Oil of sesame seed,2021,,5064.61,
+France,21691.07,Oil of sesame seed,2022,,4121.42,
+France,21691.07,Oil of sesame seed,2023,,3585.02,
+France,21691.12,Oil of linseed,2020,,10200.0,
+France,21691.12,Oil of linseed,2021,,11600.0,
+France,21691.12,Oil of linseed,2022,,11300.0,
+France,21691.12,Oil of linseed,2023,,10800.0,
+France,21691.14,Oil of palm kernel,2020,,7.58,
+France,21691.14,Oil of palm kernel,2021,,2.33,
+France,21691.14,Oil of palm kernel,2022,,45.13,
+France,21691.14,Oil of palm kernel,2023,,125.85,
+France,21700.02,Margarine and shortening,2020,,52800.0,
+France,21700.02,Margarine and shortening,2021,,51600.0,
+France,21700.02,Margarine and shortening,2022,,52200.0,
+France,21700.02,Margarine and shortening,2023,,52800.0,
+France,22110.02,Skim milk of cows,2020,,9463202.14,
+France,22110.02,Skim milk of cows,2021,,9357975.97,
+France,22110.02,Skim milk of cows,2022,,8956831.22,
+France,22110.02,Skim milk of cows,2023,,8884570.91,
+France,22120,"Cream, fresh",2020,,447450.0,
+France,22120,"Cream, fresh",2021,,474390.0,
+France,22120,"Cream, fresh",2022,,454990.0,
+France,22120,"Cream, fresh",2023,,470060.0,
+France,22130.02,"Whey, dry",2020,,412460.0,
+France,22130.02,"Whey, dry",2021,,480420.0,
+France,22130.02,"Whey, dry",2022,,477400.0,
+France,22130.02,"Whey, dry",2023,,420720.0,
+France,22130.03,"Whey, condensed",2020,,0.0,
+France,22130.03,"Whey, condensed",2021,,0.0,
+France,22130.03,"Whey, condensed",2022,,0.0,
+France,22130.03,"Whey, condensed",2023,,0.0,
+France,22211,Whole milk powder,2020,,92490.0,
+France,22211,Whole milk powder,2021,,87580.0,
+France,22211,Whole milk powder,2022,,83020.0,
+France,22211,Whole milk powder,2023,,73590.0,
+France,22212,Skim milk and whey powder,2020,,330780.0,
+France,22212,Skim milk and whey powder,2021,,319080.0,
+France,22212,Skim milk and whey powder,2022,,302240.0,
+France,22212,Skim milk and whey powder,2023,,293670.0,
+France,22221.01,"Whole milk, evaporated",2020,,20181.85,
+France,22221.01,"Whole milk, evaporated",2021,,19957.44,
+France,22221.01,"Whole milk, evaporated",2022,,21230.75,
+France,22221.01,"Whole milk, evaporated",2023,,20873.38,
+France,22222.01,"Whole milk, condensed",2020,,49740.0,
+France,22222.01,"Whole milk, condensed",2021,,46110.0,
+France,22222.01,"Whole milk, condensed",2022,,162890.0,
+France,22222.01,"Whole milk, condensed",2023,,103640.0,
+France,22230.01,Yoghurt,2020,,464850.0,
+France,22230.01,Yoghurt,2021,,533510.0,
+France,22230.01,Yoghurt,2022,,531490.0,
+France,22230.01,Yoghurt,2023,,573490.0,
+France,22230.04,"Buttermilk, dry",2020,,26240.0,
+France,22230.04,"Buttermilk, dry",2021,,28470.0,
+France,22230.04,"Buttermilk, dry",2022,,26750.0,
+France,22230.04,"Buttermilk, dry",2023,,26950.0,
+France,22241.01,Butter of cow milk,2020,,417540.0,
+France,22241.01,Butter of cow milk,2021,,410180.0,
+France,22241.01,Butter of cow milk,2022,,412730.0,
+France,22241.01,Butter of cow milk,2023,,403970.0,
+France,22251.01,Cheese from whole cow milk,2020,,1683420.0,
+France,22251.01,Cheese from whole cow milk,2021,,1698270.0,
+France,22251.01,Cheese from whole cow milk,2022,,1735080.0,
+France,22251.01,Cheese from whole cow milk,2023,,1731360.0,
+France,22251.02,Cheese from skimmed cow milk,2020,,355510.81,
+France,22251.02,Cheese from skimmed cow milk,2021,,352020.05,
+France,22251.02,Cheese from skimmed cow milk,2022,,310313.7,
+France,22251.02,Cheese from skimmed cow milk,2023,,308693.45,
+France,22252,"Cheese from milk of buffalo, fresh or processed",2020,,22370.0,
+France,22252,"Cheese from milk of buffalo, fresh or processed",2021,,23080.0,
+France,22252,"Cheese from milk of buffalo, fresh or processed",2022,,24100.0,
+France,22252,"Cheese from milk of buffalo, fresh or processed",2023,,25170.0,
+France,22253,"Cheese from milk of sheep, fresh or processed",2020,,66920.0,
+France,22253,"Cheese from milk of sheep, fresh or processed",2021,,68690.0,
+France,22253,"Cheese from milk of sheep, fresh or processed",2022,,64580.0,
+France,22253,"Cheese from milk of sheep, fresh or processed",2023,,61090.0,
+France,22254,"Cheese from milk of goats, fresh or processed",2020,,89380.0,
+France,22254,"Cheese from milk of goats, fresh or processed",2021,,89590.0,
+France,22254,"Cheese from milk of goats, fresh or processed",2022,,89870.0,
+France,22254,"Cheese from milk of goats, fresh or processed",2023,,89440.0,
+France,2351f,Raw cane or beet sugar (centrifugal only),2020,,3800000.0,
+France,2351f,Raw cane or beet sugar (centrifugal only),2021,,4671494.1,
+France,2351f,Raw cane or beet sugar (centrifugal only),2022,,4301112.35,
+France,2351f,Raw cane or beet sugar (centrifugal only),2023,,4147732.6,
+France,23540,Molasses,2020,,924375.69,
+France,23540,Molasses,2021,,1136372.53,
+France,23540,Molasses,2022,,1046274.66,
+France,23540,Molasses,2023,,1008964.0,
+France,24212.02,Wine,2020,,4688976.0,
+France,24212.02,Wine,2021,,3784140.0,
+France,24212.02,Wine,2022,,4605809.0,
+France,24212.02,Wine,2023,,4762507.0,
+France,24310.01,"Beer of barley, malted",2020,,2160000.0,
+France,24310.01,"Beer of barley, malted",2021,,2180000.0,
+France,24310.01,"Beer of barley, malted",2022,,2250000.0,
+France,24310.01,"Beer of barley, malted",2023,,2160000.0,

@@ -1,0 +1,41 @@
+region,region_normalised,year,annual_mean_temperature_c,annual_min_temperature_c,annual_max_temperature_c,annual_precipitation_mm,annual_rain_mm,annual_et0_mm
+Bourgogne-Franche-Comté,bourgogne-franche-comte,2015,12.37945205479452,-4.2,38.6,722.6,698.6,917.5
+Bourgogne-Franche-Comté,bourgogne-franche-comte,2016,11.389344262295081,-5.3,34.4,1081.4,1060.0,783.13
+Bourgogne-Franche-Comté,bourgogne-franche-comte,2017,11.877808219178082,-9.7,35.7,851.5,819.3,867.48
+Bourgogne-Franche-Comté,bourgogne-franche-comte,2018,12.912876712328767,-11.3,36.1,903.7,880.6,930.87
+Bourgogne-Franche-Comté,bourgogne-franche-comte,2019,12.64986301369863,-4.8,39.7,763.5,741.8,960.04
+Bourgogne-Franche-Comté,bourgogne-franche-comte,2020,12.939071038251365,-4.6,39.1,823.4,807.6,961.27
+Bourgogne-Franche-Comté,bourgogne-franche-comte,2021,11.248767123287672,-9.1,32.5,1002.0,958.3,805.73
+Bourgogne-Franche-Comté,bourgogne-franche-comte,2022,13.023287671232877,-8.3,37.2,947.2,937.8,970.98
+Bourgogne-Franche-Comté,bourgogne-franche-comte,2023,13.03972602739726,-7.2,35.7,977.9,963.6,911.44
+Bourgogne-Franche-Comté,bourgogne-franche-comte,2024,12.092349726775957,-6.3,34.9,1200.6,1182.3,767.71
+Centre — Val de Loire,centre - val de loire,2015,12.456986301369863,-3.8,38.4,586.6,583.6,865.0
+Centre — Val de Loire,centre - val de loire,2016,11.711475409836064,-5.3,35.6,766.2,763.5,772.87
+Centre — Val de Loire,centre - val de loire,2017,12.215342465753425,-8.0,36.0,639.3,637.1,833.14
+Centre — Val de Loire,centre - val de loire,2018,12.914520547945205,-10.7,35.8,716.2,686.7,898.55
+Centre — Val de Loire,centre - val de loire,2019,12.640273972602738,-3.2,41.1,757.6,743.2,922.86
+Centre — Val de Loire,centre - val de loire,2020,13.142896174863388,-2.9,37.2,671.5,671.3,921.7
+Centre — Val de Loire,centre - val de loire,2021,11.684657534246574,-6.5,32.8,822.4,806.3,816.13
+Centre — Val de Loire,centre - val de loire,2022,13.296986301369863,-5.5,37.4,659.9,658.0,956.24
+Centre — Val de Loire,centre - val de loire,2023,13.261917808219179,-6.0,35.2,771.7,763.4,883.63
+Centre — Val de Loire,centre - val de loire,2024,12.30464480874317,-6.8,36.1,925.1,913.0,732.31
+Ile de France,ile de france,2015,12.54904109589041,-3.0,38.3,534.7,532.0,835.61
+Ile de France,ile de france,2016,11.864754098360656,-5.1,35.9,707.7,701.8,754.74
+Ile de France,ile de france,2017,12.375342465753425,-7.5,36.2,663.9,660.7,800.96
+Ile de France,ile de france,2018,12.936712328767122,-8.2,36.3,726.8,697.4,866.4
+Ile de France,ile de france,2019,12.642739726027399,-4.3,41.4,803.5,778.6,876.92
+Ile de France,ile de france,2020,13.30655737704918,-2.8,37.6,710.1,709.6,901.76
+Ile de France,ile de france,2021,11.793698630136985,-6.0,31.9,789.5,779.9,777.6
+Ile de France,ile de france,2022,13.334246575342465,-6.0,38.9,650.6,644.1,920.45
+Ile de France,ile de france,2023,13.365205479452055,-5.2,34.9,847.6,842.9,849.12
+Ile de France,ile de france,2024,12.793989071038252,-4.9,36.6,980.3,967.4,716.67
+Normandie,normandie,2015,12.329589041095891,-1.8,35.5,618.8,616.7,793.75
+Normandie,normandie,2016,11.868852459016393,-4.7,37.3,624.0,621.4,765.85
+Normandie,normandie,2017,12.445479452054796,-6.4,35.3,698.5,697.9,781.17
+Normandie,normandie,2018,12.427123287671233,-7.0,34.3,660.8,654.5,807.33
+Normandie,normandie,2019,12.383835616438358,-2.4,39.2,762.0,757.1,834.38
+Normandie,normandie,2020,13.01393442622951,-2.2,36.7,699.9,699.7,859.55
+Normandie,normandie,2021,11.79205479452055,-5.0,30.2,804.4,799.6,760.61
+Normandie,normandie,2022,13.118630136986301,-4.1,39.2,775.1,772.2,871.79
+Normandie,normandie,2023,13.058356164383563,-3.0,32.3,858.5,855.9,796.61
+Normandie,normandie,2024,12.387431693989072,-4.7,32.1,864.1,845.1,717.66

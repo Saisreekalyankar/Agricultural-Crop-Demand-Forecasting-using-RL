@@ -1,0 +1,571 @@
+region,year,eurostat_crop_category,production_structure,eurostat_area_thousand_ha,region_normalised,eurostat_area_ha
+France,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,9584.58,france,9584580.0
+France,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,9529.98,france,9529980.0
+France,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,9339.87,france,9339870.0
+France,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,9055.31,france,9055310.0
+France,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,9394.03,france,9394030.0
+France,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,8926.69,france,8926690.0
+France,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,9325.7,france,9325700.0
+France,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,9005.01,france,9005010.0
+France,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,8831.54,france,8831540.0
+France,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,8526.62,france,8526620.0
+Ile de France,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,366.69,ile de france,366690.0
+Ile de France,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,363.29,ile de france,363290.0
+Ile de France,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,360.68,ile de france,360680.0
+Ile de France,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,355.76,ile de france,355760.0
+Ile de France,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,381.24,ile de france,381240.0
+Ile de France,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,358.34,ile de france,358340.0
+Ile de France,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,364.09,ile de france,364090.0
+Ile de France,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,353.46,ile de france,353460.0
+Ile de France,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,350.8,ile de france,350800.0
+Ile de France,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,347.02,ile de france,347020.0
+Centre — Val de Loire,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1258.4,centre - val de loire,1258400.0
+Centre — Val de Loire,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1254.6,centre - val de loire,1254600.0
+Centre — Val de Loire,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1248.92,centre - val de loire,1248920.0
+Centre — Val de Loire,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1194.89,centre - val de loire,1194890.0
+Centre — Val de Loire,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1293.41,centre - val de loire,1293410.0
+Centre — Val de Loire,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1208.47,centre - val de loire,1208470.0
+Centre — Val de Loire,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1212.64,centre - val de loire,1212640.0
+Centre — Val de Loire,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1174.27,centre - val de loire,1174270.0
+Centre — Val de Loire,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1153.08,centre - val de loire,1153080.0
+Centre — Val de Loire,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1118.84,centre - val de loire,1118840.0
+Bourgogne-Franche-Comté,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,751.19,bourgogne-franche-comte,751190.0
+Bourgogne-Franche-Comté,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,745.23,bourgogne-franche-comte,745230.0
+Bourgogne-Franche-Comté,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,747.45,bourgogne-franche-comte,747450.0
+Bourgogne-Franche-Comté,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,719.26,bourgogne-franche-comte,719260.0
+Bourgogne-Franche-Comté,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,766.13,bourgogne-franche-comte,766130.0
+Bourgogne-Franche-Comté,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,727.58,bourgogne-franche-comte,727580.0
+Bourgogne-Franche-Comté,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,737.08,bourgogne-franche-comte,737080.0
+Bourgogne-Franche-Comté,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,718.2,bourgogne-franche-comte,718200.0
+Bourgogne-Franche-Comté,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,701.88,bourgogne-franche-comte,701880.0
+Bourgogne-Franche-Comté,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,683.88,bourgogne-franche-comte,683880.0
+Normandie,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,645.99,normandie,645990.0
+Normandie,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,650.88,normandie,650880.0
+Normandie,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,628.85,normandie,628850.0
+Normandie,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,623.19,normandie,623190.0
+Normandie,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,641.13,normandie,641130.0
+Normandie,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,621.77,normandie,621770.0
+Normandie,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,655.35,normandie,655350.0
+Normandie,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,638.65,normandie,638650.0
+Normandie,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,630.36,normandie,630360.0
+Normandie,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,605.0,normandie,605000.0
+Hauts-de-France,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1088.03,hauts-de-france,1088030.0
+Hauts-de-France,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1074.04,hauts-de-france,1074040.0
+Hauts-de-France,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1037.96,hauts-de-france,1037960.0
+Hauts-de-France,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1031.3,hauts-de-france,1031300.0
+Hauts-de-France,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1061.83,hauts-de-france,1061830.0
+Hauts-de-France,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1033.69,hauts-de-france,1033690.0
+Hauts-de-France,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1083.06,hauts-de-france,1083060.0
+Hauts-de-France,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1052.96,hauts-de-france,1052960.0
+Hauts-de-France,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1033.84,hauts-de-france,1033839.9999999999
+Hauts-de-France,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,991.12,hauts-de-france,991120.0
+Grand Est,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1374.09,grand est,1374090.0
+Grand Est,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1365.91,grand est,1365910.0
+Grand Est,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1397.97,grand est,1397970.0
+Grand Est,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1332.77,grand est,1332770.0
+Grand Est,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1380.36,grand est,1380360.0
+Grand Est,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1321.83,grand est,1321830.0
+Grand Est,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1405.96,grand est,1405960.0
+Grand Est,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1350.98,grand est,1350980.0
+Grand Est,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1302.46,grand est,1302460.0
+Grand Est,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1305.06,grand est,1305060.0
+Pays de la Loire,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,719.37,pays de la loire,719370.0
+Pays de la Loire,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,708.62,pays de la loire,708620.0
+Pays de la Loire,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,690.02,pays de la loire,690020.0
+Pays de la Loire,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,674.91,pays de la loire,674910.0
+Pays de la Loire,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,677.08,pays de la loire,677080.0
+Pays de la Loire,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,638.72,pays de la loire,638720.0
+Pays de la Loire,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,708.76,pays de la loire,708760.0
+Pays de la Loire,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,679.89,pays de la loire,679890.0
+Pays de la Loire,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,655.13,pays de la loire,655130.0
+Pays de la Loire,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,597.1,pays de la loire,597100.0
+Bretagne,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,587.33,bretagne,587330.0
+Bretagne,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,588.26,bretagne,588260.0
+Bretagne,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,573.9,bretagne,573900.0
+Bretagne,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,561.46,bretagne,561460.0
+Bretagne,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,584.32,bretagne,584320.0
+Bretagne,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,576.82,bretagne,576820.0
+Bretagne,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,601.09,bretagne,601090.0
+Bretagne,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,588.75,bretagne,588750.0
+Bretagne,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,570.83,bretagne,570830.0
+Bretagne,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,576.57,bretagne,576570.0
+Nouvelle-Aquitaine,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1352.95,nouvelle-aquitaine,1352950.0
+Nouvelle-Aquitaine,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1342.02,nouvelle-aquitaine,1342020.0
+Nouvelle-Aquitaine,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1284.05,nouvelle-aquitaine,1284050.0
+Nouvelle-Aquitaine,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1232.0,nouvelle-aquitaine,1232000.0
+Nouvelle-Aquitaine,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1288.26,nouvelle-aquitaine,1288260.0
+Nouvelle-Aquitaine,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1173.52,nouvelle-aquitaine,1173520.0
+Nouvelle-Aquitaine,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1236.46,nouvelle-aquitaine,1236460.0
+Nouvelle-Aquitaine,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1187.0,nouvelle-aquitaine,1187000.0
+Nouvelle-Aquitaine,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1172.0,nouvelle-aquitaine,1172000.0
+Nouvelle-Aquitaine,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1093.34,nouvelle-aquitaine,1093340.0
+Occitanie,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,807.04,occitanie,807040.0
+Occitanie,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,797.33,occitanie,797330.0
+Occitanie,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,760.63,occitanie,760630.0
+Occitanie,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,746.33,occitanie,746330.0
+Occitanie,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,743.68,occitanie,743680.0
+Occitanie,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,690.79,occitanie,690790.0
+Occitanie,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,729.02,occitanie,729020.0
+Occitanie,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,681.8,occitanie,681800.0
+Occitanie,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,694.05,occitanie,694050.0
+Occitanie,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,654.92,occitanie,654920.0
+Auvergne-Rhône-Alpes,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,547.81,auvergne-rhone-alpes,547810.0
+Auvergne-Rhône-Alpes,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,553.57,auvergne-rhone-alpes,553570.0
+Auvergne-Rhône-Alpes,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,527.82,auvergne-rhone-alpes,527820.0
+Auvergne-Rhône-Alpes,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,510.74,auvergne-rhone-alpes,510740.0
+Auvergne-Rhône-Alpes,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,509.95,auvergne-rhone-alpes,509950.0
+Auvergne-Rhône-Alpes,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,513.75,auvergne-rhone-alpes,513750.0
+Auvergne-Rhône-Alpes,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,524.09,auvergne-rhone-alpes,524090.00000000006
+Auvergne-Rhône-Alpes,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,509.33,auvergne-rhone-alpes,509330.0
+Auvergne-Rhône-Alpes,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,500.34,auvergne-rhone-alpes,500340.0
+Auvergne-Rhône-Alpes,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,487.83,auvergne-rhone-alpes,487830.0
+Provence-Alpes-Côte d’Azur,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,82.18,provence-alpes-cote d'azur,82180.0
+Provence-Alpes-Côte d’Azur,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,82.49,provence-alpes-cote d'azur,82490.0
+Provence-Alpes-Côte d’Azur,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,78.52,provence-alpes-cote d'azur,78520.0
+Provence-Alpes-Côte d’Azur,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,70.37,provence-alpes-cote d'azur,70370.0
+Provence-Alpes-Côte d’Azur,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,64.37,provence-alpes-cote d'azur,64370.00000000001
+Provence-Alpes-Côte d’Azur,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,59.85,provence-alpes-cote d'azur,59850.0
+Provence-Alpes-Côte d’Azur,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,66.97,provence-alpes-cote d'azur,66970.0
+Provence-Alpes-Côte d’Azur,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,68.21,provence-alpes-cote d'azur,68210.0
+Provence-Alpes-Côte d’Azur,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,65.35,provence-alpes-cote d'azur,65349.99999999999
+Provence-Alpes-Côte d’Azur,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,64.5,provence-alpes-cote d'azur,64500.0
+Corse,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1.5,corse,1500.0
+Corse,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1.54,corse,1540.0
+Corse,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1.53,corse,1530.0
+Corse,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1.39,corse,1390.0
+Corse,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1.39,corse,1390.0
+Corse,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1.21,corse,1210.0
+Corse,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1.11,corse,1110.0
+Corse,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1.17,corse,1170.0
+Corse,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1.09,corse,1090.0
+Corse,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1.1,corse,1100.0
+Guadeloupe,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Guadeloupe,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Guadeloupe,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Guadeloupe,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Guadeloupe,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Guadeloupe,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Guadeloupe,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Guadeloupe,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Guadeloupe,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Guadeloupe,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Martinique,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.01,martinique,10.0
+Martinique,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.01,martinique,10.0
+Martinique,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.02,martinique,20.0
+Martinique,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.02,martinique,20.0
+Martinique,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.02,martinique,20.0
+Martinique,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,martinique,0.0
+Martinique,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,martinique,0.0
+Martinique,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,martinique,0.0
+Martinique,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,martinique,0.0
+Martinique,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,martinique,0.0
+Guyane,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1.93,guyane,1930.0
+Guyane,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,2.1,guyane,2100.0
+Guyane,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,1.45,guyane,1450.0
+Guyane,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.83,guyane,830.0
+Guyane,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.78,guyane,780.0
+Guyane,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.32,guyane,320.0
+Guyane,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.0,guyane,0.0
+Guyane,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.31,guyane,310.0
+Guyane,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.3,guyane,300.0
+Guyane,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.3,guyane,300.0
+La Réunion,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.09,la reunion,90.0
+La Réunion,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.09,la reunion,90.0
+La Réunion,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.09,la reunion,90.0
+La Réunion,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.09,la reunion,90.0
+La Réunion,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.09,la reunion,90.0
+La Réunion,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.02,la reunion,20.0
+La Réunion,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.02,la reunion,20.0
+La Réunion,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.02,la reunion,20.0
+La Réunion,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.03,la reunion,30.0
+La Réunion,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.03,la reunion,30.0
+Mayotte,2015,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,,mayotte,
+Mayotte,2016,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.01,mayotte,10.0
+Mayotte,2017,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.01,mayotte,10.0
+Mayotte,2018,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.01,mayotte,10.0
+Mayotte,2019,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.01,mayotte,10.0
+Mayotte,2020,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.01,mayotte,10.0
+Mayotte,2021,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.01,mayotte,10.0
+Mayotte,2022,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.01,mayotte,10.0
+Mayotte,2023,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.01,mayotte,10.0
+Mayotte,2024,Cereals for the production of grain (including seed),Area (sown/harvested/production) - thousand hectares,0.01,mayotte,10.0
+France,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,296.18,france,296180.0
+France,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,328.79,france,328790.0
+France,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,358.65,france,358650.0
+France,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,292.86,france,292860.0
+France,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,312.8,france,312800.0
+France,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,389.26,france,389260.0
+France,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,391.95,france,391950.0
+France,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,308.71,france,308710.0
+France,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,353.69,france,353690.0
+France,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,320.83,france,320830.0
+Ile de France,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,21.52,ile de france,21520.0
+Ile de France,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,19.45,ile de france,19450.0
+Ile de France,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,16.42,ile de france,16420.0
+Ile de France,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,11.53,ile de france,11530.0
+Ile de France,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,13.59,ile de france,13590.0
+Ile de France,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,20.18,ile de france,20180.0
+Ile de France,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,18.95,ile de france,18950.0
+Ile de France,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,15.97,ile de france,15970.0
+Ile de France,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,19.19,ile de france,19190.0
+Ile de France,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,16.47,ile de france,16470.0
+Centre — Val de Loire,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,37.64,centre - val de loire,37640.0
+Centre — Val de Loire,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,43.44,centre - val de loire,43440.0
+Centre — Val de Loire,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,53.01,centre - val de loire,53010.0
+Centre — Val de Loire,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,41.75,centre - val de loire,41750.0
+Centre — Val de Loire,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,45.98,centre - val de loire,45980.0
+Centre — Val de Loire,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,55.96,centre - val de loire,55960.0
+Centre — Val de Loire,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,53.19,centre - val de loire,53190.0
+Centre — Val de Loire,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,39.69,centre - val de loire,39690.0
+Centre — Val de Loire,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,46.87,centre - val de loire,46870.0
+Centre — Val de Loire,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,39.49,centre - val de loire,39490.0
+Bourgogne-Franche-Comté,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,19.48,bourgogne-franche-comte,19480.0
+Bourgogne-Franche-Comté,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,25.58,bourgogne-franche-comte,25580.0
+Bourgogne-Franche-Comté,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,34.75,bourgogne-franche-comte,34750.0
+Bourgogne-Franche-Comté,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,23.94,bourgogne-franche-comte,23940.0
+Bourgogne-Franche-Comté,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,35.3,bourgogne-franche-comte,35300.0
+Bourgogne-Franche-Comté,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,43.88,bourgogne-franche-comte,43880.0
+Bourgogne-Franche-Comté,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,40.98,bourgogne-franche-comte,40980.0
+Bourgogne-Franche-Comté,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,28.8,bourgogne-franche-comte,28800.0
+Bourgogne-Franche-Comté,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,25.64,bourgogne-franche-comte,25640.0
+Bourgogne-Franche-Comté,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,22.5,bourgogne-franche-comte,22500.0
+Normandie,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,28.8,normandie,28800.0
+Normandie,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,29.5,normandie,29500.0
+Normandie,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,28.5,normandie,28500.0
+Normandie,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,20.28,normandie,20280.0
+Normandie,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,15.61,normandie,15610.0
+Normandie,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,22.45,normandie,22450.0
+Normandie,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,20.89,normandie,20890.0
+Normandie,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,18.82,normandie,18820.0
+Normandie,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,21.16,normandie,21160.0
+Normandie,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,21.34,normandie,21340.0
+Hauts-de-France,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,45.38,hauts-de-france,45380.0
+Hauts-de-France,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,39.43,hauts-de-france,39430.0
+Hauts-de-France,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,29.96,hauts-de-france,29960.0
+Hauts-de-France,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,23.65,hauts-de-france,23650.0
+Hauts-de-France,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,23.06,hauts-de-france,23060.0
+Hauts-de-France,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,32.52,hauts-de-france,32520.000000000004
+Hauts-de-France,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,30.89,hauts-de-france,30890.0
+Hauts-de-France,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,24.28,hauts-de-france,24280.0
+Hauts-de-France,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,30.66,hauts-de-france,30660.0
+Hauts-de-France,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,29.49,hauts-de-france,29490.0
+Grand Est,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,46.23,grand est,46230.0
+Grand Est,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,53.47,grand est,53470.0
+Grand Est,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,52.7,grand est,52700.0
+Grand Est,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,36.55,grand est,36550.0
+Grand Est,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,36.88,grand est,36880.0
+Grand Est,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,52.14,grand est,52140.0
+Grand Est,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,62.1,grand est,62100.0
+Grand Est,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,43.61,grand est,43610.0
+Grand Est,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,48.43,grand est,48430.0
+Grand Est,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,39.05,grand est,39050.0
+Pays de la Loire,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,17.5,pays de la loire,17500.0
+Pays de la Loire,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,20.54,pays de la loire,20540.0
+Pays de la Loire,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,23.13,pays de la loire,23130.0
+Pays de la Loire,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,20.92,pays de la loire,20920.0
+Pays de la Loire,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,21.22,pays de la loire,21220.0
+Pays de la Loire,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,24.15,pays de la loire,24150.0
+Pays de la Loire,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,25.87,pays de la loire,25870.0
+Pays de la Loire,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,22.08,pays de la loire,22080.0
+Pays de la Loire,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,28.08,pays de la loire,28080.0
+Pays de la Loire,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,26.09,pays de la loire,26090.0
+Bretagne,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,6.52,bretagne,6520.0
+Bretagne,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,8.88,bretagne,8880.0
+Bretagne,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,9.46,bretagne,9460.0
+Bretagne,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,8.0,bretagne,8000.0
+Bretagne,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,8.37,bretagne,8370.0
+Bretagne,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,10.01,bretagne,10010.0
+Bretagne,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,10.27,bretagne,10270.0
+Bretagne,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,9.68,bretagne,9680.0
+Bretagne,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,13.5,bretagne,13500.0
+Bretagne,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,12.63,bretagne,12630.0
+Nouvelle-Aquitaine,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,30.61,nouvelle-aquitaine,30610.0
+Nouvelle-Aquitaine,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,34.95,nouvelle-aquitaine,34950.0
+Nouvelle-Aquitaine,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,47.74,nouvelle-aquitaine,47740.0
+Nouvelle-Aquitaine,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,46.95,nouvelle-aquitaine,46950.0
+Nouvelle-Aquitaine,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,51.08,nouvelle-aquitaine,51080.0
+Nouvelle-Aquitaine,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,69.95,nouvelle-aquitaine,69950.0
+Nouvelle-Aquitaine,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,68.22,nouvelle-aquitaine,68220.0
+Nouvelle-Aquitaine,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,55.43,nouvelle-aquitaine,55430.0
+Nouvelle-Aquitaine,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,61.52,nouvelle-aquitaine,61520.0
+Nouvelle-Aquitaine,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,56.62,nouvelle-aquitaine,56620.0
+Occitanie,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,30.48,occitanie,30480.0
+Occitanie,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,40.81,occitanie,40810.0
+Occitanie,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,49.16,occitanie,49160.0
+Occitanie,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,47.31,occitanie,47310.0
+Occitanie,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,49.41,occitanie,49410.0
+Occitanie,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,42.52,occitanie,42520.0
+Occitanie,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,47.76,occitanie,47760.0
+Occitanie,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,38.86,occitanie,38860.0
+Occitanie,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,47.22,occitanie,47220.0
+Occitanie,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,45.6,occitanie,45600.0
+Auvergne-Rhône-Alpes,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,9.32,auvergne-rhone-alpes,9320.0
+Auvergne-Rhône-Alpes,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,10.14,auvergne-rhone-alpes,10140.0
+Auvergne-Rhône-Alpes,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,11.01,auvergne-rhone-alpes,11010.0
+Auvergne-Rhône-Alpes,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,10.07,auvergne-rhone-alpes,10070.0
+Auvergne-Rhône-Alpes,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,10.5,auvergne-rhone-alpes,10500.0
+Auvergne-Rhône-Alpes,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,11.63,auvergne-rhone-alpes,11630.0
+Auvergne-Rhône-Alpes,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,10.09,auvergne-rhone-alpes,10090.0
+Auvergne-Rhône-Alpes,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,8.82,auvergne-rhone-alpes,8820.0
+Auvergne-Rhône-Alpes,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,7.97,auvergne-rhone-alpes,7970.0
+Auvergne-Rhône-Alpes,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,8.68,auvergne-rhone-alpes,8680.0
+Provence-Alpes-Côte d’Azur,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,2.51,provence-alpes-cote d'azur,2510.0
+Provence-Alpes-Côte d’Azur,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,2.39,provence-alpes-cote d'azur,2390.0
+Provence-Alpes-Côte d’Azur,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,2.5,provence-alpes-cote d'azur,2500.0
+Provence-Alpes-Côte d’Azur,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,1.7,provence-alpes-cote d'azur,1700.0
+Provence-Alpes-Côte d’Azur,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,1.61,provence-alpes-cote d'azur,1610.0
+Provence-Alpes-Côte d’Azur,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,3.01,provence-alpes-cote d'azur,3010.0
+Provence-Alpes-Côte d’Azur,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,2.66,provence-alpes-cote d'azur,2660.0
+Provence-Alpes-Côte d’Azur,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,2.61,provence-alpes-cote d'azur,2610.0
+Provence-Alpes-Côte d’Azur,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,3.31,provence-alpes-cote d'azur,3310.0
+Provence-Alpes-Côte d’Azur,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,2.71,provence-alpes-cote d'azur,2710.0
+Corse,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,corse,10.0
+Corse,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.03,corse,30.0
+Corse,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.11,corse,110.0
+Corse,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,corse,10.0
+Corse,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,corse,10.0
+Corse,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,corse,10.0
+Corse,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,corse,10.0
+Corse,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,corse,10.0
+Corse,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.03,corse,30.0
+Corse,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.06,corse,60.0
+Guadeloupe,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,guadeloupe,10.0
+Guadeloupe,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Guadeloupe,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,guadeloupe,10.0
+Guadeloupe,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Guadeloupe,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,guadeloupe,0.0
+Guadeloupe,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.03,guadeloupe,30.0
+Guadeloupe,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.03,guadeloupe,30.0
+Guadeloupe,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.03,guadeloupe,30.0
+Guadeloupe,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.03,guadeloupe,30.0
+Guadeloupe,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.03,guadeloupe,30.0
+Martinique,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,martinique,0.0
+Martinique,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,martinique,10.0
+Martinique,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,martinique,0.0
+Martinique,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.17,martinique,170.0
+Martinique,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,martinique,10.0
+Martinique,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,martinique,0.0
+Martinique,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,martinique,0.0
+Martinique,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,martinique,0.0
+Martinique,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,martinique,0.0
+Martinique,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,martinique,0.0
+Guyane,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,guyane,0.0
+Guyane,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,guyane,0.0
+Guyane,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,guyane,0.0
+Guyane,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.02,guyane,20.0
+Guyane,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.02,guyane,20.0
+Guyane,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.02,guyane,20.0
+Guyane,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,guyane,0.0
+Guyane,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,guyane,10.0
+Guyane,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,guyane,10.0
+Guyane,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,guyane,10.0
+La Réunion,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.19,la reunion,190.0
+La Réunion,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,la reunion,0.0
+La Réunion,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.19,la reunion,190.0
+La Réunion,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,la reunion,0.0
+La Réunion,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,la reunion,0.0
+La Réunion,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.02,la reunion,20.0
+La Réunion,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.02,la reunion,20.0
+La Réunion,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.02,la reunion,20.0
+La Réunion,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.09,la reunion,90.0
+La Réunion,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.07,la reunion,70.0
+Mayotte,2015,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,,mayotte,
+Mayotte,2016,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.19,mayotte,190.0
+Mayotte,2017,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,mayotte,0.0
+Mayotte,2018,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.0,mayotte,0.0
+Mayotte,2019,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.17,mayotte,170.0
+Mayotte,2020,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.79,mayotte,790.0
+Mayotte,2021,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.04,mayotte,40.0
+Mayotte,2022,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,mayotte,10.0
+Mayotte,2023,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,mayotte,10.0
+Mayotte,2024,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses),Area (sown/harvested/production) - thousand hectares,0.01,mayotte,10.0
+France,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,france,
+France,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,france,
+France,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,france,
+France,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,france,
+France,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,france,
+France,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,france,
+France,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,france,
+France,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,france,
+France,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,france,
+France,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,france,
+Ile de France,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,ile de france,
+Ile de France,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,ile de france,
+Ile de France,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,ile de france,
+Ile de France,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,ile de france,
+Ile de France,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,ile de france,
+Ile de France,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,ile de france,
+Ile de France,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,ile de france,
+Ile de France,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,ile de france,
+Ile de France,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,ile de france,
+Ile de France,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,ile de france,
+Centre — Val de Loire,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,centre - val de loire,
+Centre — Val de Loire,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,centre - val de loire,
+Centre — Val de Loire,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,centre - val de loire,
+Centre — Val de Loire,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,centre - val de loire,
+Centre — Val de Loire,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,centre - val de loire,
+Centre — Val de Loire,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,centre - val de loire,
+Centre — Val de Loire,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,centre - val de loire,
+Centre — Val de Loire,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,centre - val de loire,
+Centre — Val de Loire,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,centre - val de loire,
+Centre — Val de Loire,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,centre - val de loire,
+Bourgogne-Franche-Comté,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bourgogne-franche-comte,
+Bourgogne-Franche-Comté,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bourgogne-franche-comte,
+Bourgogne-Franche-Comté,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bourgogne-franche-comte,
+Bourgogne-Franche-Comté,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bourgogne-franche-comte,
+Bourgogne-Franche-Comté,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bourgogne-franche-comte,
+Bourgogne-Franche-Comté,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bourgogne-franche-comte,
+Bourgogne-Franche-Comté,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bourgogne-franche-comte,
+Bourgogne-Franche-Comté,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bourgogne-franche-comte,
+Bourgogne-Franche-Comté,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bourgogne-franche-comte,
+Bourgogne-Franche-Comté,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bourgogne-franche-comte,
+Normandie,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,normandie,
+Normandie,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,normandie,
+Normandie,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,normandie,
+Normandie,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,normandie,
+Normandie,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,normandie,
+Normandie,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,normandie,
+Normandie,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,normandie,
+Normandie,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,normandie,
+Normandie,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,normandie,
+Normandie,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,normandie,
+Hauts-de-France,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,hauts-de-france,
+Hauts-de-France,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,hauts-de-france,
+Hauts-de-France,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,hauts-de-france,
+Hauts-de-France,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,hauts-de-france,
+Hauts-de-France,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,hauts-de-france,
+Hauts-de-France,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,hauts-de-france,
+Hauts-de-France,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,hauts-de-france,
+Hauts-de-France,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,hauts-de-france,
+Hauts-de-France,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,hauts-de-france,
+Hauts-de-France,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,hauts-de-france,
+Grand Est,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,grand est,
+Grand Est,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,grand est,
+Grand Est,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,grand est,
+Grand Est,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,grand est,
+Grand Est,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,grand est,
+Grand Est,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,grand est,
+Grand Est,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,grand est,
+Grand Est,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,grand est,
+Grand Est,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,grand est,
+Grand Est,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,grand est,
+Pays de la Loire,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,pays de la loire,
+Pays de la Loire,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,pays de la loire,
+Pays de la Loire,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,pays de la loire,
+Pays de la Loire,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,pays de la loire,
+Pays de la Loire,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,pays de la loire,
+Pays de la Loire,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,pays de la loire,
+Pays de la Loire,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,pays de la loire,
+Pays de la Loire,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,pays de la loire,
+Pays de la Loire,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,pays de la loire,
+Pays de la Loire,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,pays de la loire,
+Bretagne,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bretagne,
+Bretagne,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bretagne,
+Bretagne,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bretagne,
+Bretagne,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bretagne,
+Bretagne,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bretagne,
+Bretagne,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bretagne,
+Bretagne,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bretagne,
+Bretagne,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bretagne,
+Bretagne,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bretagne,
+Bretagne,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,bretagne,
+Nouvelle-Aquitaine,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,nouvelle-aquitaine,
+Nouvelle-Aquitaine,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,nouvelle-aquitaine,
+Nouvelle-Aquitaine,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,nouvelle-aquitaine,
+Nouvelle-Aquitaine,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,nouvelle-aquitaine,
+Nouvelle-Aquitaine,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,nouvelle-aquitaine,
+Nouvelle-Aquitaine,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,nouvelle-aquitaine,
+Nouvelle-Aquitaine,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,nouvelle-aquitaine,
+Nouvelle-Aquitaine,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,nouvelle-aquitaine,
+Nouvelle-Aquitaine,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,nouvelle-aquitaine,
+Nouvelle-Aquitaine,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,nouvelle-aquitaine,
+Occitanie,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,occitanie,
+Occitanie,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,occitanie,
+Occitanie,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,occitanie,
+Occitanie,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,occitanie,
+Occitanie,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,occitanie,
+Occitanie,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,occitanie,
+Occitanie,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,occitanie,
+Occitanie,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,occitanie,
+Occitanie,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,occitanie,
+Occitanie,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,occitanie,
+Auvergne-Rhône-Alpes,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,auvergne-rhone-alpes,
+Auvergne-Rhône-Alpes,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,auvergne-rhone-alpes,
+Auvergne-Rhône-Alpes,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,auvergne-rhone-alpes,
+Auvergne-Rhône-Alpes,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,auvergne-rhone-alpes,
+Auvergne-Rhône-Alpes,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,auvergne-rhone-alpes,
+Auvergne-Rhône-Alpes,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,auvergne-rhone-alpes,
+Auvergne-Rhône-Alpes,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,auvergne-rhone-alpes,
+Auvergne-Rhône-Alpes,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,auvergne-rhone-alpes,
+Auvergne-Rhône-Alpes,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,auvergne-rhone-alpes,
+Auvergne-Rhône-Alpes,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,auvergne-rhone-alpes,
+Provence-Alpes-Côte d’Azur,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,provence-alpes-cote d'azur,
+Provence-Alpes-Côte d’Azur,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,provence-alpes-cote d'azur,
+Provence-Alpes-Côte d’Azur,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,provence-alpes-cote d'azur,
+Provence-Alpes-Côte d’Azur,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,provence-alpes-cote d'azur,
+Provence-Alpes-Côte d’Azur,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,provence-alpes-cote d'azur,
+Provence-Alpes-Côte d’Azur,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,provence-alpes-cote d'azur,
+Provence-Alpes-Côte d’Azur,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,provence-alpes-cote d'azur,
+Provence-Alpes-Côte d’Azur,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,provence-alpes-cote d'azur,
+Provence-Alpes-Côte d’Azur,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,provence-alpes-cote d'azur,
+Provence-Alpes-Côte d’Azur,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,provence-alpes-cote d'azur,
+Corse,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,corse,
+Corse,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,corse,
+Corse,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,corse,
+Corse,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,corse,
+Corse,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,corse,
+Corse,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,corse,
+Corse,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,corse,
+Corse,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,corse,
+Corse,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,corse,
+Corse,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,corse,
+Guadeloupe,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guadeloupe,
+Guadeloupe,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guadeloupe,
+Guadeloupe,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guadeloupe,
+Guadeloupe,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guadeloupe,
+Guadeloupe,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guadeloupe,
+Guadeloupe,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guadeloupe,
+Guadeloupe,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guadeloupe,
+Guadeloupe,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guadeloupe,
+Guadeloupe,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guadeloupe,
+Guadeloupe,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guadeloupe,
+Martinique,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,martinique,
+Martinique,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,martinique,
+Martinique,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,martinique,
+Martinique,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,martinique,
+Martinique,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,martinique,
+Martinique,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,martinique,
+Martinique,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,martinique,
+Martinique,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,martinique,
+Martinique,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,martinique,
+Martinique,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,martinique,
+Guyane,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guyane,
+Guyane,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guyane,
+Guyane,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guyane,
+Guyane,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guyane,
+Guyane,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guyane,
+Guyane,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guyane,
+Guyane,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guyane,
+Guyane,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guyane,
+Guyane,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guyane,
+Guyane,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,guyane,
+La Réunion,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,la reunion,
+La Réunion,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,la reunion,
+La Réunion,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,la reunion,
+La Réunion,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,la reunion,
+La Réunion,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,la reunion,
+La Réunion,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,la reunion,
+La Réunion,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,la reunion,
+La Réunion,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,la reunion,
+La Réunion,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,la reunion,
+La Réunion,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,la reunion,
+Mayotte,2015,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,mayotte,
+Mayotte,2016,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,mayotte,
+Mayotte,2017,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,mayotte,
+Mayotte,2018,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,mayotte,
+Mayotte,2019,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,mayotte,
+Mayotte,2020,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,mayotte,
+Mayotte,2021,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,mayotte,
+Mayotte,2022,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,mayotte,
+Mayotte,2023,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,mayotte,
+Mayotte,2024,Permanent grassland,Area (sown/harvested/production) - thousand hectares,,mayotte,
