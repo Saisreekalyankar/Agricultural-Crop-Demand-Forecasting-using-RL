@@ -40,12 +40,12 @@ def load_system():
         ppo_model = None
         
         if os.path.exists("models/dqn_final.zip"):
-            dqn_model = DQN.load("models/dqn_final", device="cpu")
+            dqn_model = DQN.load("models/dqn_final", device="cpu", custom_objects={"learning_rate": 0.0003})
         else:
             st.warning("DQN model not found in 'models/' folder.")
             
         if os.path.exists("models/ppo_final.zip"):
-            ppo_model = PPO.load("models/ppo_final", device="cpu")
+            ppo_model = PPO.load("models/ppo_final", device="cpu", custom_objects={"learning_rate": 0.0003})
         else:
             st.warning("PPO model not found in 'models/' folder.")
             
